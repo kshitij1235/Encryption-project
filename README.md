@@ -1,4 +1,4 @@
-# Encryption-peoject
+# Encryption-project
 
 This basically performa the mono encryption and vernam cypher
 
